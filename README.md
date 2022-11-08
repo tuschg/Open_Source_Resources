@@ -1,2 +1,2 @@
 # Open_Source_Resources
-AMIA Course
+AMIA Course 2022
